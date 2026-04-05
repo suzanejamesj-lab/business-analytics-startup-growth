@@ -1,7 +1,6 @@
 # Impact of Business Analytics on Startup Growth & Competitive Advantage
 
-A research paper co-authored by Suzane J and T L Reshmi, under the guidance 
-of Dr. Narayani Bhatt.
+Research paper exploring the impact of business analytics on startup growth and competitive advantage.
 
 ## Abstract
 
