@@ -1,6 +1,6 @@
 # Impact of Business Analytics on Startup Growth & Competitive Advantage
 
-Research paper exploring the impact of business analytics on startup growth and competitive advantage.
+A Research paper exploring the impact of business analytics on startup growth and competitive advantage.
 
 ## Abstract
 
