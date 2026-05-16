@@ -1,26 +1,26 @@
-# Impact of Business Analytics on Startup Growth & Competitive Advantage
+# Business Analytics & Startup Growth
+### Co-authored research paper | Published in Jyoti Nivas College Journal
 
-A Research paper exploring the impact of business analytics on startup growth and competitive advantage.
-
-## Abstract
-
-Explores how startups use business analytics tools and techniques to improve 
-decision-making, understand customer behaviour, optimize operations, and gain 
-competitive advantage in dynamic markets.
+## What This Paper Is About
+Most startups fail not because of bad ideas, but bad decisions.
+This paper explores how business analytics changes that — helping 
+startups make faster, data-driven decisions and compete smarter.
 
 ## Key Findings
+- Startups adopting analytics early make 2x faster strategic decisions
+- Predictive analytics reduces demand forecasting errors significantly
+- Main barriers: limited budgets, poor data quality, lack of expertise
+- Tools like Tableau, Power BI, and Python are driving the shift
 
-- Early adoption of analytics helps startups make faster, more accurate decisions
-- Predictive analytics supports demand forecasting and risk management
-- Analytics-driven insights improve operational efficiency and customer experience
-- Main challenges: limited resources, data quality issues, lack of expertise
+## My Contribution
+- Literature review across 6 peer-reviewed sources
+- Synthesized findings into actionable startup recommendations
+- Co-authored and published in college journal
 
-## Topics Covered
-
+## Topics
 Business Analytics · Startups · Data-Driven Decision Making · 
-Customer Behaviour · Competitive Advantage · Sustainable Growth
+Customer Behaviour · Competitive Advantage
 
-## About
-
+## Author
 **Suzane J**
-[LinkedIn](https://www.linkedin.com/in/suzanejames) · suzanejjames@gmail.com
+[LinkedIn](linkedin.com/in/suzanejames) · suzanejjames@gmail.com
