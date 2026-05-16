@@ -3,7 +3,7 @@
 
 ## What This Paper Is About
 Most startups fail not because of bad ideas, but bad decisions.
-This paper explores how business analytics changes that — helping 
+This paper explores how business analytics changes that helping 
 startups make faster, data-driven decisions and compete smarter.
 
 ## Key Findings
